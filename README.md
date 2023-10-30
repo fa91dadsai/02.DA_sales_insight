@@ -22,14 +22,14 @@ I'd like to extend a heartfelt thanks to Motaseam Yousef for his invaluable supp
 
 ## Project Visuals 📸
 
-![Data Exploration](image-url-1)
-*Exploring the dataset with Python*
+![Data Exploration](Top_5_customer_by_sales_amount.png)
+*Top 5 Customer By Sales Amount*
 
-![Data Preprocessing](image-url-2)
-*Handling missing values and outliers*
+![Data Preprocessing](Top_5_product_by_amount.png)
+*Top 5 Product By Amount*
 
-![Data Visualization](image-url-3)
-*Key insights through data visualization*
+![Data Visualization](Total_Revenue_by_Customer_Name)
+*Total Revenue By Customer Name*
 
 ## Project Links 🔗
 
