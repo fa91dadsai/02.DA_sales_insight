@@ -28,7 +28,7 @@ I'd like to extend a heartfelt thanks to Motaseam Yousef for his invaluable supp
 ![Data Preprocessing](Top_5_product_by_amount.png)
 *Top 5 Product By Amount*
 
-![Data Visualization](Total_Revenue_by_Customer_Name)
+![Data Visualization](Total_Revenue_by_Customer_Name.png)
 *Total Revenue By Customer Name*
 
 ## Project Links 🔗
